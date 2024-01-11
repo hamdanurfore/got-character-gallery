@@ -1,1 +1,0 @@
-# got-character-gallery
